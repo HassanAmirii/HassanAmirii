@@ -1,25 +1,50 @@
-Hi there, I'm hassan! 👋
+Hi there , my name is hassan!
 
-🔧 Technologies & Tools
+🗣I just like writing code. I'm working on python, and i also plan to  to extend my horizons to other languages such as java, C etc  as well as libraries within python for web-scraping, AI/ML, Cloud computing etc. Basically, I'm trying to broaden my tech stack.
+
+🔗Langauges
+
+In terms of coding languages, I mainly code in Python, but i plan to learn some other languages soon 
+
+🔗Tech Stack
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+i'm still working on python 
+NEW LANGUAGES SOON!
 
-🌱 I'm Currently Learning
+🔗Projects:
 
-         - python >> oop concepts to be precise
-         
-🚀 Projects
-         -big project coming soon 
-         
-💬 Let's Connect
-Feel free to connect with me on discord , LinkedIn(soon) or check out my portfolio(soon) for more projects!
-        -- Discord: cs-kenny#5058
+idk , i think the projects i'm working are too weak to paste here 
+BIG PROJECTS COMING SOON!
 
-📊 Top Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+🔗Future Projects
 
-🎉 Fun Fact
-      -'Work hard, stay humble.'
+1.A personal portfolio website
+
+2.A blog
+
+3.mark zuckerbergs face mash
+
+4.A site to share projects to get ratings and advice in school(myuniversity)
+
+5.Game
+
+
+🔗Currently Learning
+
+Currently learning python and some of it frameworks.
+
+🔗While i'm not coding 
+
+i astudy calculus , linear algebra , set theory , basically computer science (maths).
+
+i play game (payback2),(pubg)
+
+i also like painting (vintage stuff)
+
+🔗Fun Fact about me
+
+I am allergic to giving up sigh :/
 
 
 <!---
