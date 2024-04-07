@@ -6,13 +6,13 @@
 
 ---
 
-## 🔗 Languages
+## Languages
 
 In terms of coding languages, I mainly code in Python, but I plan to learn some other languages soon.
 
 ---
 
-## 🔗 Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 I'm still working on Python.
@@ -20,14 +20,14 @@ NEW LANGUAGES SOON!
 
 ---
 
-## 🔗 Projects:
+##  Projects:
 
 I don't have any projects to showcase yet, but I have some big projects in the pipeline!
 BIG PROJECTS COMING SOON!
 
 ---
 
-## 🔗 Future Projects
+##  Future Projects
 
 1. Personal portfolio website
 2. Blog
@@ -37,13 +37,13 @@ BIG PROJECTS COMING SOON!
 
 ---
 
-## 🔗 Currently Learning
+##  Currently Learning
 
 Currently learning Python and some of its frameworks.
 
 ---
 
-## 🔗 While I'm Not Coding
+##  While I'm Not Coding
 
 I study calculus, linear algebra, set theory, basically computer science (maths).
 I play games like Payback 2 and PUBG.
@@ -51,7 +51,7 @@ I also like painting vintage stuff.
 
 ---
 
-## 🔗 Fun Fact about me
+##  Fun Fact about me
 
 I am allergic to giving up. Sigh :/
 
