@@ -12,10 +12,9 @@
 In terms of coding languages, I mainly code in PYTHON, but I plan to learn some other languages soon.
 
 ## Tech Stack
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="50">
 
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) (Still working on Python)
-- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+
 
 NEW LANGUAGES SOON!
 
