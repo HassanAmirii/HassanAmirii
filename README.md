@@ -2,7 +2,7 @@
 
 ---
 
-## Aspiring software engineer. I'm working on Python, and I also plan to extend my horizons to other languages such as Java, C, JavaScript, etc., as well as libraries within Python for web scraping, AI/ML, cloud computing, etc. Basically, I'm trying to broaden my tech stack.
+#### Aspiring software engineer. I'm working on Python, and I also plan to extend my horizons to other languages such as Java, C, JavaScript, etc., as well as libraries within Python for web scraping, AI/ML, cloud computing, etc. Basically, I'm trying to broaden my tech stack.
 
 
 ---
@@ -42,11 +42,12 @@ BIG PROJECTS COMING SOON!
 
 Currently learning Python and some of its frameworks.
 
+calculus , linear algebra basically computer science(maths).
+
 ---
 
-## Subdirectories
 
-### Mini Projects
+### Mini Projects [my intermidiate python project](https://github.com/HassanAmirii/my-intermidate-pyproject)
 Explore small mini projects that are too quick and small for a dedicated repository, but still worth showcasing.
 
 [my intermidiate python project](https://github.com/HassanAmirii/my-intermidate-pyproject)
@@ -56,11 +57,11 @@ Explore small mini projects that are too quick and small for a dedicated reposit
 
 ## While I'm Not Coding
 
-I study calculus, linear algebra, set theory, basically computer science (maths).
-
 I play games like Payback 2 and PUBG.
 
 I also like painting vintage stuff.
+
+I watch movies(sometimes)
 
 ---
 
