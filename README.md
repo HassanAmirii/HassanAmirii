@@ -47,7 +47,7 @@ calculus , linear algebra basically computer science(maths).
 ---
 
 
-### Mini Projects [my intermidiate python project](https://github.com/HassanAmirii/my-intermidate-pyproject)
+### Mini Projects
 Explore small mini projects that are too quick and small for a dedicated repository, but still worth showcasing.
 
 [my intermidiate python project](https://github.com/HassanAmirii/my-intermidate-pyproject)
