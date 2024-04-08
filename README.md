@@ -12,7 +12,8 @@
 In terms of coding languages, I mainly code in PYTHON, but I plan to learn some other languages soon.
 
 ## Tech Stack
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="50">
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="50"> 
+
 
 
 
@@ -22,7 +23,7 @@ NEW LANGUAGES SOON!
 
 ## Projects:
 
-I don't have any projects to showcase yet, but I have some big projects in the pipeline!
+mini projects dow below, but I have some big projects in the pipeline!
 BIG PROJECTS COMING SOON!
 
 ---
