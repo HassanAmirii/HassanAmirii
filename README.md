@@ -45,6 +45,15 @@ Currently learning Python and some of its frameworks.
 
 ---
 
+## Subdirectories
+
+### Mini Projects
+Explore small mini projects that are too quick and small for a dedicated repository, but still worth showcasing.
+
+[my intermidiate python project](https://github.com/HassanAmirii/my-intermidate-pyproject/tree/main/mini-projects)
+
+---
+
 ## While I'm Not Coding
 
 I study calculus, linear algebra, set theory, basically computer science (maths).
