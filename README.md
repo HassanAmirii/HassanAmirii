@@ -9,7 +9,7 @@
 
 ## Languages
 
-In terms of coding languages, I mainly code in ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white), but I plan to learn some other languages soon.
+In terms of coding languages, I mainly code in PYTHON, but I plan to learn some other languages soon.
 
 ## Tech Stack
 
