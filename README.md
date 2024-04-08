@@ -50,7 +50,8 @@ Currently learning Python and some of its frameworks.
 ### Mini Projects
 Explore small mini projects that are too quick and small for a dedicated repository, but still worth showcasing.
 
-[my intermidiate python project](https://github.com/HassanAmirii/my-intermidate-pyproject/tree/main/mini-projects)
+[my intermidiate python project](https://github.com/HassanAmirii/my-intermidate-pyproject)
+
 
 ---
 
