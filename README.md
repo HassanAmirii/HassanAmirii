@@ -2,7 +2,8 @@
 
 ---
 
-## aspiring software engineer . I'm working on Python, and I also plan to extend my horizons to other languages such as Java, C, etc., as well as libraries within Python for web scraping, AI/ML, cloud computing, etc. Basically, I'm trying to broaden my tech stack.
+## Aspiring software engineer. I'm working on Python, and I also plan to extend my horizons to other languages such as Java, C, JavaScript, etc., as well as libraries within Python for web scraping, AI/ML, cloud computing, etc. Basically, I'm trying to broaden my tech stack.
+
 
 ---
 
@@ -33,7 +34,8 @@ BIG PROJECTS COMING SOON!
 2. Blog
 3. Mark Zuckerberg's Face Mash
 4. A site to share projects to get ratings and advice in school (my university)
-5. Game
+5. full frontend / backend projects
+6. arcade games
 
 ---
 
