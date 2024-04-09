@@ -24,7 +24,7 @@ NEW LANGUAGES SOON!
 
 ---
 
-## Projects:
+## Projects
 
 mini projects dow below, but I have some big projects in the pipeline!
 BIG PROJECTS COMING SOON!
