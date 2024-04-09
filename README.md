@@ -1,8 +1,8 @@
-# Hi there, my name is Hassan!
+# Hi there, my name is Hassan
 
 ---
 
-#### Aspiring software engineer. I'm working on Python, and I also plan to extend my horizons to other languages such as Java, C, JavaScript, etc., as well as libraries within Python for web scraping, AI/ML, cloud computing, etc. Basically, I'm trying to broaden my tech stack.
+#### I am an aspiring software engineer. I'm working on Python, and I also plan to extend my horizons to other languages such as Java, C, JavaScript, etc., as well as libraries within Python for web scraping, AI/ML, cloud computing, etc. Basically, I'm trying to broaden my tech stack.
 
 
 ---
