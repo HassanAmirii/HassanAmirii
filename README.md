@@ -2,7 +2,9 @@
 
 #### I am Hassan, an aspiring software engineer.
 
-I'm currently working on Python and have plans to explore other languages such as Java, C, JavaScript, etc. Additionally, I'm eager to delve into various Python libraries for web scraping, AI/ML, cloud computing, and more to broaden my tech stack.
+I'm currently working on Python and have plans to explore other languages such as Java, C, JavaScript, etc.
+
+Additionally, I'm eager to delve into various Python libraries for web scraping, AI/ML, cloud computing, and more to broaden my tech stack.
 
 ---
 
