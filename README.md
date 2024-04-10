@@ -54,13 +54,18 @@ Explore some small mini projects that are too quick and small for a dedicated re
 
 ## While I'm Not Coding
 
-Apart from coding, I enjoy playing games like Payback 2 and PUBG. I also find solace in painting vintage stuff and occasionally indulging in movies.
+Apart from coding, i write on medium to share my experience on a particular topic.
+
+and i enjoy playing games like Payback 2 and PUBG. I also find solace in painting vintage stuff and occasionally indulging in movies.
 
 ---
 
-## Fun Fact about Me
+##### let connect!
 
-I am allergic to giving up. Sigh :/
+[![Medium](![image](https://github.com/HassanAmirii/HassanAmirii/assets/164951337/cae35c52-5a2c-4b7d-9bd4-994f7456d711)
+)](https://medium.com/@hassanamiri.ai)
+
+
 
 
 <!---
