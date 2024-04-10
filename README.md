@@ -14,27 +14,10 @@ In terms of coding languages, I mainly work with Python, but I'm excited to lear
 
 ---
 
-## Tech Stack
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="50"> 
-
-NEW LANGUAGES SOON!
-
----
-
 ## Projects
 
 I have some mini projects listed below, but there are also some big projects in the pipeline!
 BIG PROJECTS COMING SOON!
-
----
-
-## Future Projects
-
-1. Personal portfolio website
-2. Blog
-3. Mark Zuckerberg's Face Mash
-4. Full frontend/backend projects
-5. Arcade games, etc.
 
 ---
 
