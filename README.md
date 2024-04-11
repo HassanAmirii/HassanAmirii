@@ -44,8 +44,10 @@ and i enjoy playing games like Payback 2 and PUBG. I also find solace in paintin
 ---
 
 ##### let connect!
+<a href="https://medium.com/@hassanamiri.ai">
+  <img src="medium.png" alt="Medium">
+</a>
 
-[![Medium](https://i.ibb.co/Wt5ZswB/medium-logo.png)](https://medium.com/@hassanamiri.ai)
 
 
 
