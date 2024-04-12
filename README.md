@@ -2,15 +2,12 @@
 I'm <a href="https://hassanamirii.github.io/">hassan</a>, an aspiring software engineer.
 
 I'm currently working on Python and have plans to explore other languages such as Java,etc.
-
 Additionally, I'm eager to delve into various Python libraries for web scraping,
 
 AI/ML, cloud computing, and more to broaden my tech stack.
-
 Currently, I'm diving deeper into Python and exploring its various frameworks.
 
 Additionally, I'm enhancing my mathematical skills by studying calculus,
-
 linear algebra, and other computer science-related topics.
 
 ##### let connect!
