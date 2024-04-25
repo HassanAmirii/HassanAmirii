@@ -14,7 +14,9 @@ linear algebra, and other computer science-related topics.
 
 <a href="https://medium.com/@hassanamiri.ai">
   <img src="medium.png" alt="Medium">
-</a>
+</a> <a href="https://www.linkedin.com/in/hassan-amiri-7a3b53304/">
+  <img src="linkedin.png" alt="Linkedin">
+</a> 
 
 ---
 
