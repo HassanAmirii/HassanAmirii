@@ -11,9 +11,10 @@ Additionally, I'm enhancing my mathematical skills by studying calculus,
 linear algebra, and other computer science-related topics.
 
 ##### let connect!
-</a> <a href="https://www.linkedin.com/in/hassan-amiri-7a3b53304/">
-  <img src="linkedin.png" alt="Linkedin">
-</a> 
+<a href="https://www.linkedin.com/in/hassan-amiri-7a3b53304/">
+  <img src="https://brand.linkedin.com/assets/icons/logos/LinkedIn_Logo_2013.svg" alt="LinkedIn">
+</a>
+ 
 
 ---
 
