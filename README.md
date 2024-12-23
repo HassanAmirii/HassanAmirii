@@ -1,6 +1,6 @@
  **` Hi, I'm Hassan, A digital craftman (developer & wannabe enterpreneur)`**
 
-- 🚀 Aspiring Software Engineer 
+- 🚀 Software Engineer 
 - 🌱 Currently learning: HTML, CSS, JavaScript
 - 🔭 Working in prog: A YouTube Clone
 - 💬 Ask me about: Coding, Tech, and Growth
