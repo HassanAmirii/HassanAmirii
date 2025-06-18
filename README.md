@@ -4,9 +4,6 @@
 
 
 
----
-
-## 🧠 About Me
 
 - 🎓 Aspiring CS Undergraduate | Self-Taught Software Developer  
 - 🧑‍🏫 ICT Teacher | Passionate about **Computer Science education**
