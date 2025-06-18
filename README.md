@@ -10,53 +10,16 @@
 - 🔧 Building **Courstella** – a quiz platform to empower learners    
 - 🛠️ I like **clean code**, **backend dev**, and **CS theory**
 
----
 
 
-## 🛠️ Languages & Tools
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HassanAmirii&show_icons=true&theme=radical&hide=prs" width="47%" />
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HassanAmirii&theme=radical" width="47%" />
 </div>
 
----
-
-## 🔥 Contribution Heatmap
-
-[![Lord Hassan's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HassanAmirii&theme=react-dark&hide_border=true&area=true)](https://github.com/HassanAmirii)
-
----
-
-## 🗂️ Learning Roadmap
-
-```yaml
-current_focus:
-  - Tailwind CSS Mastery
-  - JavaScript Data Structures
-  - Supabase Authentication
-  - Design Patterns & Clean Architecture
-
-next_up:
-  - React
-  - TypeScript
-  - PostgreSQL
-```
 ## 🌐 on the web
 
 - 🐦 Twitter: [@HassanAmiriiii](https://x.com/HassanAmiriiii)  
 - 💼 LinkedIn: [Hassan Amiri](https://www.linkedin.com/in/hassan-amiri-7a3b53304/)  
-- 🧠 Blog (coming soon): [`premodium.dev`](https://premodium.dev)
 
 
 
