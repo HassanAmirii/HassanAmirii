@@ -7,7 +7,7 @@
 
 - 🎓 Aspiring CS Undergraduate | Self-Taught Software Developer  
 - 🧑‍🏫 ICT Teacher | Passionate about **Computer Science education**
-- 🔧 Building **Courstella** – a quiz platform to empower learners    
+- 🔧 Building **Courstella** – a quiz platform to ace departmental exams 
 - 🛠️ I like **clean code**, **backend dev**, and **CS theory**
 
 
@@ -17,7 +17,7 @@
 </div>
 
 ## 🌐 on the web
-
+- 📚 notes here: [Hassan2bit](https://hassan2bit.bearblog.dev/)
 - 🐦 Twitter: [@HassanAmiriiii](https://x.com/HassanAmiriiii)  
 - 💼 LinkedIn: [Hassan Amiri](https://www.linkedin.com/in/hassan-amiri-7a3b53304/)  
 
