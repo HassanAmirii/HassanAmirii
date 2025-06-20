@@ -12,10 +12,6 @@
 
 
 
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HassanAmirii&theme=radical" width="47%" />
-</div>
-
 ## 🌐 on the web
 - 📚 notes here: [Hassan2bit](https://hassan2bit.bearblog.dev/)
 - 🐦 Twitter: [@HassanAmiriiii](https://x.com/HassanAmiriiii)  
