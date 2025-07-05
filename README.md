@@ -1,14 +1,8 @@
-
-
-#### Hey, I’m Hassan — (backend engineer): hassanamiri.ai@gmail.com
-
 - pushing backend and it's been going great-- project coming soon
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HassanAmirii&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HassanAmirii&show_icons=true&count_private=true)  
 
 
 
