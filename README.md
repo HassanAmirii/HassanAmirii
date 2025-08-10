@@ -2,14 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Backend+Engineer;Learning+daily)](https://git.io/typing-svg)
 
----
 
-## About
 currently kaizening backend 
 
 
 
-## My Progress
 
 | Most Used Languages | Stats |
 |---------------------|-------|
