@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Backend+Engineer;Learning+daily)](https://git.io/typing-svg)
 
 
-currently kaizening backend 
+currently kaizening backend :: JS
 
 
 
