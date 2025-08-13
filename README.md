@@ -4,7 +4,7 @@
 
 
 currently kaizening backend :: JS
-
+currently building ::  weather API that fetches and returns weather data. using node js, express and openweather api
 
 
 
