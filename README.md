@@ -6,7 +6,7 @@ Goal: bring stuffs to life & maintain 1000 days streak
 
 currently kaizening backend :: JS, node js, express, mongo db
 <br>
-currently building ::  weather API that fetches and returns weather data. using node js, express and  Visual Crossing’s API
+currently building ::  weather API that fetches and returns weather data. using node js, express and  Visual Crossing’s API -- Also have to implement redis to cache subsequent requests 
 
 
 
