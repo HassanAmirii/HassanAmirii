@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Backend+Engineer;Learning+daily)](https://git.io/typing-svg)
 
+Goal: bring stuffs to life & maintain 1000 days streak 
 
 currently kaizening backend :: JS, node js, express, mongo db
 <br>
