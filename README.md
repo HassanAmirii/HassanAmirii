@@ -4,10 +4,11 @@
 
 Goal: bring stuffs to life & maintain 1000 days streak 
 
-currently kaizening backend :: JS, node js, express, mongo db
 <br>
-currently building ::  weather API that fetches and returns weather data. using node js, express and  Visual Crossing’s API -- Also have to implement redis to cache subsequent requests 
+currently building ::   an API for an expense tracker application. This API should allow users to create, read, update, and delete expenses. Users should be able to sign up and log in to the application. Each user should have their own set of expenses.
 
+
+<br><br>
 
 
 | Most Used Languages | Stats |
