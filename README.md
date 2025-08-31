@@ -6,4 +6,4 @@ currently kaizening backend
 
 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Build;Ship;Repeat)](https://git.io/typing-svg)
+ 
