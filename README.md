@@ -14,6 +14,3 @@ I also play a lot of <strong>chess(1600+ elo).</strong>
 For collaborations or feedback, feel free to reach out via email. 
 hassanamiri.ai@gmail.com
 
-| Most Used Languages | Stats |
-|---------------------|-------|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAmirii&layout=compact&theme=dark) | ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=HassanAmirii&theme=dark) |
