@@ -6,7 +6,7 @@ I am actively learning and honing my skills in <strong> backend engineering. </s
 
 Here are some technologies I have been working with:
   
-<strong>Typescript, Python, MongoDb, NodeJs, Javascript ES6+, Express JS,</strong> etc.
+<strong>Typescript, Python, MongoDb, NodeJs, Javascript ES6+, Express JS, prisma, sqLite</strong> etc.
 
 Outside of work, I'm interested in following the developments of science.
 I also play a lot of <strong>chess(1600+ elo).</strong>
