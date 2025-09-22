@@ -2,7 +2,7 @@
 
 I'm [**Hassan**](https://hassanamirii.github.io/), a software engineer.
 
-I'm actively learning and honing my skills in backend enginnering, I'm currently building [dev-theraphy](https://github.com/HassanAmirii/devtheraphy) and [rumi- a blog api](https://github.com/HassanAmirii/rumi) and i recently pusblished a blog [eureka - how to become competent in coding](https://hassan2bit.bearblog.dev/eureka-how-to-become-competent-in-coding/)
+I'm actively learning and honing my skills in backend enginnering, I'm currently building [dev-theraphy](https://github.com/HassanAmirii/devtheraphy) and i just finished building [rumi- a blog api](https://github.com/HassanAmirii/rumi) also i recently pusblished a blog [eureka - how to become competent in coding](https://hassan2bit.bearblog.dev/eureka-how-to-become-competent-in-coding/)
 
 
 Outside of work, I'm interested in following the developments of science. I play video games and read a lot of informative blogs.
