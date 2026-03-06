@@ -1,10 +1,13 @@
-### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+# Hey I'm Hassan
 
-I'm [**Hassan**](https://hassanamirii.github.io/),  backend engineer.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Backend+Engineer;Learning+daily;i+use+neovim+btw)](https://git.io/typing-svg)
 
-I'm a cs under-grad. I'm actively learning and honing my skills in backend enginnering, I'm currently building my department a [cbt_platform_api](https://github.com/HassanAmirii/cbt-platform-api) and i recently finished building [github user cli -  designed to efforlessly fetch recent github user activites](https://github.com/HassanAmirii/get-github-user-activity-) plus i recently pusblished a blog [pre("save") function - technical explanation](https://hassan2bit.bearblog.dev/password-encrpytion-before-entering-database-presave-function/)
+currently kaizening backend
+<br><br>
+
+| Most Used Languages | Stats |
+|---------------------|-------|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAmirii&layout=compact&theme=dark) | ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=HassanAmirii&theme=dark) |
 
 
-Outside of work, I'm interested in following the developments of technologes. I play chess alot(1700+ elo) and read a lot of informative blogs.
-
-> Dare mighty things
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Build;Ship;Repeat)](https://git.io/typing-svg)
