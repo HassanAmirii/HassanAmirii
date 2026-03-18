@@ -8,7 +8,7 @@ cs student building real things while hammering fundamentals.
 ## what i'm working on
 
 - **[CBT Platform](https://github.com/HassanAmirii/cbt-platform-api)** — university computer-based testing system. MEN stack. in progress.
-- **[JIA](https://github.com/HassanAmirii/jia)** — AI goal accountability manager. shipped. uses DeepSeek API.
+- **[JIA](https://github.com/HassanAmirii/jia.now)** — AI goal accountability manager. shipped. uses groq API.
 - **[devlog](https://github.com/HassanAmirii/devlog)** — minimal developer journal site + CLI tool. hosted on GitHub Pages.
 
 ---
