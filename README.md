@@ -29,7 +29,7 @@ learning   React · TypeScript · python · php · c lang
 | project | what | stack |
 |---|---|---|
 | [devlg](https://www.npmjs.com/package/@hassan2bit/devlg) | CLI tool to log dev entries. published on npm | Node.js · inquirer · commander |
-| [JIA](https://github.com/HassanAmirii/jia) | AI goal accountability manager | HTML · CSS · JS · DeepSeek API |
+| [JIA](https://github.com/HassanAmirii/jia) | AI goal accountability manager | HTML · CSS · JS · Groq API |
 | [devlog](https://github.com/HassanAmirii/devlog) | minimal developer journal site | HTML · CSS · JS |
 | [horizon](https://github.com/HassanAmirii/horizon) | RESTful todo API with auth | Node.js · Express · MongoDB |
 
