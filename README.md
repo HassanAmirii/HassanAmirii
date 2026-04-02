@@ -3,7 +3,7 @@
    hey, i'm hassan Computer science undergrad; building real things while hammering fundamentals.
    
 
-- currently building/
+- /currently building
 
   **[CBT Platform](https://github.com/HassanAmirii/cbt-platform-api)** — university computer-based testing system. MEN stack. in progress.
 
@@ -31,7 +31,7 @@ learning   React · TypeScript · python · php · c lang
 
 ---
 
-## devlog
+- /devlog
 
 > things i built, fixed, learned and figured out →  [hassanamirii.github.io/devlog](https://hassanamirii.github.io/devlog)
 
