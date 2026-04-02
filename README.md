@@ -1,11 +1,12 @@
 - /about me
 
-   hey, i'm hassan Computer science undergrad; building real things while hammering fundamentals.
+   hey, i'm hassan Computer science undergrad; building real things while hammering fundamentals. 
    
 
 - /currently building
 
-  **[CBT Platform](https://github.com/HassanAmirii/cbt-platform-api)** — university computer-based testing system. MEN stack. in progress.
+  **[cbt platform api](https://github.com/HassanAmirii/cbt-platform-api)** - university computer-based testing system. MEN stack. in progress.
+  **[url shortner](https://github.com/HassanAmirii/url-shortner)** - takes a long url; short it, and redirect to the actual url on the internet
 
 
 
