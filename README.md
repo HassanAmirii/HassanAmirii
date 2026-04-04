@@ -1,9 +1,13 @@
-- /about me
+![Codewars Badge](https://www.codewars.com/users/Hassan2bit/badges/large)
+
+#### /about me
+
 
    hey, i'm hassan Computer science undergrad; building real things while hammering fundamentals. 
    
 
-- /currently building
+#### /currently building
+
 
   **[cbt platform api](https://github.com/HassanAmirii/cbt-platform-api)** - university computer-based testing system. MEN stack. in progress.
   
@@ -12,7 +16,8 @@
 
 
 
-- /stack
+#### /stack
+
 
 ```
 backend    Node.js · Express · MongoDB · Mongoose
@@ -22,8 +27,7 @@ learning   React · TypeScript · python · php · c lang
 ```
 
 
-
-- /shipped
+#### /shipped
 
 | project | what | stack |
 |---|---|---|
@@ -33,8 +37,8 @@ learning   React · TypeScript · python · php · c lang
 
 ---
 
-- /devlog
-
+#### /devlog
+  
 > things i built, fixed, learned and figured out →  [hassanamirii.github.io/devlog](https://hassanamirii.github.io/devlog)
 
 ---
