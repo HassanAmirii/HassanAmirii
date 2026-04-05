@@ -43,4 +43,6 @@ learning   React · TypeScript · python · php · c lang
 
 ---
 
-*building one thing at a time. head down.*
+
+
+
