@@ -1,4 +1,4 @@
-![Codewars Badge](https://www.codewars.com/users/Hassan2bit/badges/large)
+
 
 #### /about me
 
@@ -39,8 +39,11 @@ learning   React · TypeScript · python · php · c lang
 
 #### /devlog
   
-> things i built, fixed, learned and figured out →  [hassanamirii.github.io/devlog](https://hassanamirii.github.io/devlog)
+> things i built, fixed, learned and figured out →
+- [hassanamirii.github.io/devlog](https://hassanamirii.github.io/devlog)
 
+> i have also been trying to consistently practice daily on code wars
+- ![Codewars Badge](https://www.codewars.com/users/Hassan2bit/badges/large)
 ---
 
 
