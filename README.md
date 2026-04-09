@@ -5,9 +5,9 @@
 
   **[cbt platform api](https://github.com/HassanAmirii/cbt-platform-api)** - university computer-based testing system. MEN stack. in progress.
   
-  **[Src Voicebox](https://github.com/HassanAmirii/src-voicebox))** - gives students a trusted channel to report safety concerns, mistreatment, and wellbeing issues while protecting identity.
+  **[Src Voicebox](https://github.com/HassanAmirii/src-voicebox)** - gives students a trusted channel to report safety concerns, mistreatment, and wellbeing issues while protecting identity.
 
-  **[markdown note taker](https://github.com/HassanAmirii/Markdown-note-taker))** - lets users upload markdown files, check the grammar, save the note, and render it in HTML.
+  **[markdown note taker](https://github.com/HassanAmirii/Markdown-note-taker)** - lets users upload markdown files, check the grammar, save the note, and render it in HTML.
 
 
 
