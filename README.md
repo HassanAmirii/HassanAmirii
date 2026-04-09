@@ -1,17 +1,13 @@
 
 
-#### /about me
-
-
-   hey, i'm hassan Computer science undergrad; building real things while hammering fundamentals. 
-   
-
 #### /currently building
 
 
   **[cbt platform api](https://github.com/HassanAmirii/cbt-platform-api)** - university computer-based testing system. MEN stack. in progress.
   
-  **[url shortner](https://github.com/HassanAmirii/url-shortner)** - takes a long url; short it, and redirect to the actual url on the internet
+  **[Src Voicebox](https://github.com/HassanAmirii/src-voicebox))** - gives students a trusted channel to report safety concerns, mistreatment, and wellbeing issues while protecting identity.
+
+  **[markdown note taker](https://github.com/HassanAmirii/Markdown-note-taker))** - lets users upload markdown files, check the grammar, save the note, and render it in HTML.
 
 
 
@@ -25,15 +21,6 @@ frontend   HTML · CSS · Vanilla JS
 tools      Git · REST APIs · CLI tooling · neovim · ubuntu linux · vscode
 learning   React · TypeScript · python · php · c lang
 ```
-
-
-#### /shipped
-
-| project | what | stack |
-|---|---|---|
-| [devlg](https://www.npmjs.com/package/@hassan2bit/devlg) | CLI tool to log dev entries. published on npm | Node.js · inquirer · commander |
-| [JIA](https://github.com/HassanAmirii/jia) | AI goal accountability manager | HTML · CSS · JS · Groq API |
-| [devlog](https://github.com/HassanAmirii/devlog) | minimal developer journal site | HTML · CSS · JS |
 
 ---
 
