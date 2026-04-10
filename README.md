@@ -22,7 +22,6 @@ tools      Git · REST APIs · CLI tooling · neovim · ubuntu linux · vscode
 learning   React · TypeScript · python · php · c lang
 ```
 
----
 
 #### /devlog
   
