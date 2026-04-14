@@ -1,9 +1,6 @@
 
 
 #### /currently building
-
-
-  **[cbt platform api](https://github.com/HassanAmirii/cbt-platform-api)** - university computer-based testing system. MEN stack. in progress.
   
   **[Src Voicebox](https://github.com/HassanAmirii/src-voicebox)** - gives students a trusted channel to report safety concerns, mistreatment, and wellbeing issues while protecting identity.
 
