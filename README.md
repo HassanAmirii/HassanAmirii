@@ -1,37 +1,13 @@
+<div align="center">
 
+# Hi 👋, I'm Hassan
 
-#### /currently building
-  
-  **[Voicebox api](https://github.com/HassanAmirii/voicebox_api)** - gives students a trusted channel to report safety concerns, mistreatment, and wellbeing issues while protecting identity.
+Just a CS student who builds things while figuring it out ...
 
-  **[markdown note taker](https://github.com/HassanAmirii/Markdown-note-taker)** - lets users upload markdown files, check the grammar, save the note, and render it in HTML.
+Interested in 👇
 
+**Backend | Dev Tools | Open Source**
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=HassanAmirii&theme=dark)](https://git.io/streak-stats)
 
-
-#### /stack
-
-
-```
-backend    Node.js · Express · MongoDB · Mongoose
-frontend   HTML · CSS · Vanilla JS
-tools      Git · REST APIs · CLI tooling · neovim · ubuntu linux · vscode
-learning   React · TypeScript · python · php · c lang
-```
-
-
-#### /devlog
-  
-> things i built, fixed, learned and figured out →
-- [hassanamirii.github.io/devlog](https://hassanamirii.github.io/devlog)
-
-#### /stats
-
-![Codewars Badge](https://www.codewars.com/users/Hassan2bit/badges/large)
-
-
----
-
-
-
-
+</div>
