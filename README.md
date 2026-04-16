@@ -2,7 +2,7 @@
 
 #### /currently building
   
-  **[Src Voicebox](https://github.com/HassanAmirii/src-voicebox)** - gives students a trusted channel to report safety concerns, mistreatment, and wellbeing issues while protecting identity.
+  **[Voicebox api](https://github.com/HassanAmirii/voicebox_api)** - gives students a trusted channel to report safety concerns, mistreatment, and wellbeing issues while protecting identity.
 
   **[markdown note taker](https://github.com/HassanAmirii/Markdown-note-taker)** - lets users upload markdown files, check the grammar, save the note, and render it in HTML.
 
