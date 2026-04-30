@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Hassan
 
-Just a CS student who builds things while figuring it out ...
+Just a CS student who builds things while figuring it out ....
 
 Interested in 👇
 
