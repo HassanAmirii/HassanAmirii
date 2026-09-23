@@ -4,9 +4,9 @@
 
 **Just a CS student who builds things while figuring it out ...**
 
-Interested in 👇
+Currently playing around 👇
 
-**Backend : APIs && Databases | Dsa**
+**Backend : APIs & Databases | Dsa**
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=HassanAmirii&theme=dark)](https://git.io/streak-stats)
 
