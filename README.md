@@ -6,7 +6,7 @@
 
 Interested in 👇
 
-**Backend | Dev Tools | DevOps**
+**Backend : APIs && Databases | Dsa**
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=HassanAmirii&theme=dark)](https://git.io/streak-stats)
 
