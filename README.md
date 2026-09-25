@@ -6,7 +6,7 @@
 
 Currently playing around 👇
 
-**Backend : APIs & Databases | Dsa**
+**Backend : APIs & Database | Dsa**
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=HassanAmirii&theme=dark)](https://git.io/streak-stats)
 
